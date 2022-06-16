@@ -7,9 +7,6 @@ For reporting bugs/features that affect multiple apps please use the <a href="ht
 [![](https://jitpack.io/v/hamza1772/Simple-Commons.svg)](https://jitpack.io/#hamza1772/Simple-Commons)
 
 ## Setup
-The simplest way to use AlertDialog is to add the library as dependency to your build.
-
-## Gradle
 
 Add it in your root build.gradle at the end of repositories:
 
@@ -20,7 +17,7 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
 
-Step 2. Add the dependency
+Add the dependency
 
 	dependencies {
 	        implementation 'com.github.hamza1772:Simple-Commons:1.0.0'
